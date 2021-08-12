@@ -1,6 +1,6 @@
 ## Description
 
-Backend repository.
+Backend repository made with [NestJS](https://docs.nestjs.com/).
 
 ## Requirements
 
@@ -26,8 +26,8 @@ $ npm run start
 ## Test
 
 - Before test, update .env file
-  NODE_ENV=test
-  MONGO_TEST_URI=mongodb://localhost/your-app-test-db
+    - NODE_ENV=test
+    - MONGO_TEST_URI=mongodb://localhost/your-app-test-db
 
 ```bash
 # unit tests
