@@ -5,7 +5,7 @@ Backend repository.
 ## Requirements
 
 - Node JS >= v14.17.4
-- Mongo DB >= v14.17.4
+- Mongo DB >= 5.0.2 (Previous versions should work fine too)
 
 ## Installation
 
@@ -20,8 +20,8 @@ $ npm install
 $ npm run start
 ```
 
-Load the data before you start to check the app, go to [Api](http://localhost:5000/load) once.
-Check api docs, go to [Api](http://localhost:5000/apidoc).
+- Load the data before you start to check the app, go to [Api](http://localhost:5000/load) once.
+- Check api docs, go to [Docs](http://localhost:5000/apidoc).
 
 ## Test
 
